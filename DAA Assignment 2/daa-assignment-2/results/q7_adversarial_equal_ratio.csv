@@ -1,0 +1,5 @@
+n,exhaustive_candidates,redesign_nodes
+12,4096,61
+16,65536,27
+20,1048576,33
+22,4194304,36

@@ -1,0 +1,16 @@
+n,algorithm,comparisons,swaps_or_moves
+100,Selection,4950,93
+100,Bubble,4935,235
+100,Insertion,334,240
+200,Selection,19900,182
+200,Bubble,19747,1179
+200,Insertion,1378,1189
+400,Selection,79800,391
+400,Bubble,79500,3173
+400,Insertion,3572,3193
+800,Selection,319600,774
+800,Bubble,317889,13325
+800,Insertion,14124,13364
+1600,Selection,1279200,1586
+1600,Bubble,1279047,59143
+1600,Insertion,60742,59221

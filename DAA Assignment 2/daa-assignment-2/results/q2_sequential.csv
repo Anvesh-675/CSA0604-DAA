@@ -1,0 +1,21 @@
+n,case,comparisons
+100,success: first,1
+100,success: middle,51
+100,success: last,100
+100,unsuccessful,100
+100,success: average of 1000 random,49.683
+1000,success: first,1
+1000,success: middle,501
+1000,success: last,1000
+1000,unsuccessful,1000
+1000,success: average of 1000 random,507.678
+10000,success: first,1
+10000,success: middle,5001
+10000,success: last,10000
+10000,unsuccessful,10000
+10000,success: average of 1000 random,4962.185
+100000,success: first,1
+100000,success: middle,50001
+100000,success: last,100000
+100000,unsuccessful,100000
+100000,success: average of 1000 random,50814.088

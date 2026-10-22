@@ -1,0 +1,4 @@
+test,n,hull_edges,hull_vertices,side_tests
+1 boundary+interior,10,4,4,124
+2 collinear on boundary,11,4,4,190
+3 all collinear,6,1,2,24

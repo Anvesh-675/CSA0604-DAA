@@ -1,0 +1,25 @@
+dataset,algorithm,n,comparisons,swaps_or_moves,time_ms
+Random,Selection,1000,499500,989,24.503
+Random,Bubble,1000,498905,248469,43.426
+Random,Bubble (no early exit),1000,499500,248469,42.445
+Random,Insertion,1000,249464,249462,23.777
+Already sorted,Selection,1000,499500,0,21.341
+Already sorted,Bubble,1000,999,0,0.052
+Already sorted,Bubble (no early exit),1000,499500,0,23.913
+Already sorted,Insertion,1000,999,0,0.095
+Reverse sorted,Selection,1000,499500,500,22.787
+Reverse sorted,Bubble,1000,499500,499500,42.489
+Reverse sorted,Bubble (no early exit),1000,499500,499500,39.664
+Reverse sorted,Insertion,1000,499500,500499,34.685
+Nearly sorted (1% swaps),Selection,1000,499500,10,20.181
+Nearly sorted (1% swaps),Bubble,1000,398924,6486,20.103
+Nearly sorted (1% swaps),Bubble (no early exit),1000,499500,6486,24.812
+Nearly sorted (1% swaps),Insertion,1000,7485,7350,0.782
+95% sorted + 5% new batch,Selection,1000,499500,996,22.025
+95% sorted + 5% new batch,Bubble,1000,499479,23629,25.634
+95% sorted + 5% new batch,Bubble (no early exit),1000,499500,23629,25.985
+95% sorted + 5% new batch,Insertion,1000,24628,23679,2.376
+All equal (edge case),Selection,1000,499500,0,20.771
+All equal (edge case),Bubble,1000,999,0,0.053
+All equal (edge case),Bubble (no early exit),1000,499500,0,24.862
+All equal (edge case),Insertion,1000,999,0,0.092

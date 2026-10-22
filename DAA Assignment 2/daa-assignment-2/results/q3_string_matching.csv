@@ -1,0 +1,5 @@
+test,n,m,match_index,char_comparisons,alignments
+A best case (first char absent),10000,100,-1,9901,9901
+B worst case (aaa..ab),10000,100,-1,990100,9901
+C random log-like text,10000,100,5000,5225,9901
+"D random text, absent pattern",10000,100,-1,9901,9901
